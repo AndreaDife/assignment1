@@ -15,7 +15,6 @@ h3 {
   position: relative;
   top: -20px;
   border: 1px;
-  
 }
 
 section {
@@ -34,6 +33,7 @@ p {
 
 .menu1 {
   background-color: pink;
+
 }
 
 .menu2 {
@@ -98,6 +98,9 @@ p {
 
   }
 
+  #fix {
+    width: 95%;
+  }
  
   .col-md-1 {
     width: 8.33%;
