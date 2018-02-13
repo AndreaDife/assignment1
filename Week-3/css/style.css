@@ -42,12 +42,10 @@ body {
 }
 
 div h2 {
-	text-align: center;
 	margin-top: 40px;
 }
 
-div p {
-	width: 95%;
+#box {
 	background-color: grey;
 	padding: 20px;
 	margin-right: auto;
